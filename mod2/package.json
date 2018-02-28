@@ -1,7 +1,7 @@
 {
   "lintfix": "if it ain't broke",
   "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
-  "affiliates":["kotv","qafrankly","wndemo1","griffin"],
+  "affiliates":["wndemo1","qafrankly"],
   "tag":"Heba",
   "propTypes": {
     "title": "PropTypes.string",
